@@ -1,2 +1,1 @@
-entrypoint
-second instruction
+master
